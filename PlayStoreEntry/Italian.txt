@@ -1,0 +1,56 @@
+﻿Titolo
+=====
+
+Learn 4 Fun - Esercizi di matematica
+
+
+
+Breve Descrizione
+=================
+
+Invoglia i tuoi figli a fare esercizi di matematica per poter usare il telefono o il tablet!
+
+
+Descrizione
+===========
+
+Learn 4 Fun funziona come un'app blocca schermo. Per accedere alle altre app o ai giochi sul telefono o sul tablet i tuoi bambini dovranno prima risolvere alcuni esercizi di matematica e saranno quindi ricompensati con il tempo di gioco.
+
+Una volta scaduto il tempo, l'accesso verrà bloccato e sarà nuovamente visualizzato un altro esercizio di matematica.
+
+
+Learn 4 Fun non sostituisce la "Modalità Bambino"! L'accesso alle app e a Internet non è limitato.
+
+
+Operazioni matematiche selezionabili:
+★ Addizione
+★ Sottrazione
+★ Moltiplicazione
+★ Divisione
+★ Conversione di unità
+★ Schemi numerici
+
+
+Funzionalità avanzate:
+★ Statistiche esercizi
+★ Telefonate sempre accessibili (ad esempio per le chiamate di emergenza)
+★ Impostazioni dei genitori protette da password
+★ Gli esercizi sbagliati vengono ripetuti più spesso
+★ Intervallo numerico regolabile per addizioni e sottrazioni
+★ Seleziona serie numeriche specifiche per moltiplicazioni e divisioni
+★ Regolazione del tempo di gioco per ogni ricompensa
+★ Regolazione del tempo di gioco complessivo
+
+Conversioni di unità:
+★ Lunghezza
+★ Massa (peso)
+★ Liquidi
+★ Unità (Sistema Metrico o Sistema Imperiale)
+
+Google Play Games (opzionale)
+★ Sblocca gli obiettivi
+★ Classifiche per ogni categoria
+
+Permessi:
+Per funzionare correttamente, Learn 4 Fun deve verificare se un'altra app è attualmente in esecuzione in primo piano. 
+Sui dispositivi con Android 5.0+, questa funzione richiede il permesso di monitorare le statistiche di utilizzo delle app.

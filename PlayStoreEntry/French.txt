@@ -1,0 +1,56 @@
+﻿Title
+=====
+
+Learn 4 Fun - Math Exercises
+
+
+
+Short Description
+=================
+
+Let your kids do some math exercises before using their phone or tablet!
+
+
+Description
+===========
+
+Learn 4 Fun works like a screen lock. Before accessing the apps or games on the phone or tablet, your kids have to solve some math exercises first and are rewarded with play time.
+
+Once time is up, access will be locked and the exercise screen appears again.
+
+
+Learn 4 Fun is not a kids mode! Access to apps and internet is not restricted.
+
+
+Selectable mathematical operations:
+★ Addition
+★ Subtraction
+★ Multiplication
+★ Division
+★ Unit conversions
+★ Number patterns
+
+
+Advanced features:
+★ Stats
+★ Phone is always accessible (e.g. for emergency calls)
+★ Password protected parents settings
+★ Incorrectly solved exercises are repeated more often
+★ Adjustable number range for additions and subtractions
+★ Select specific series for multiplications and division
+★ Adjustable play time reward
+★ Adjustable maximum play time
+
+Unit conversions:
+★ Length
+★ Mass (weight)
+★ Liquids
+★ Imperial or metric units
+
+Google Play Games (optional)
+★ Unlock Achievments
+★ Leaderboards for every category
+
+Permissions:
+In order to work properly, Learn 4 Fun needs to check if another app is currently running
+in foreground. On devices running Android 5.0+, this feature requires usage access.

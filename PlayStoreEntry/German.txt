@@ -1,0 +1,52 @@
+﻿Title
+=====
+
+Learn 4 Fun - Rechenaufgaben
+
+
+
+Short Description
+=================
+
+Lassen Sie Ihre Kinder vor dem Spielen am Handy ein paar Rechenaufgaben lösen!
+
+
+Description
+===========
+
+Learn 4 Fun funktioniert wie eine Bildschirmsperre. Bevor Ihre Kinder auf Spiele und Apps auf dem Handy oder Tablet zugreifen können, müssen sie ein paar Mathe-Aufgaben lösen und erhalten dafür Spielzeit.
+
+Nach Ablauf der Spielzeit, wird der Zugang wieder gesperrt und der Übungsbildschirm erscheint.
+
+Learn 4 Fun ist keine Kindersicherung! Der Zugang zu Apps und die Internetverbindung werden nicht eingeschränkt.
+
+<b>Verfügbare mathematische Operationen:</b>
+★ Addition
+★ Subtraktion
+★ Multiplikation
+★ Division
+★ Ergänzungsaufgaben
+★ Einheiten umwandeln
+★ Zahlenreihen fortsetzen
+
+<b>Weitere Funktionen:</b>
+★ Auf die Telefon-App kann immer zugegriffen werden (z.B. für Notrufe)
+★ Passwortgeschützte Einstellungen für Eltern
+★ Falsch gelöste Aufgaben werden öfter wiederholt
+★ Einstellbarer Zahlenraum für Additionen und Subtraktionen
+★ Einstellbare Reihen (1er-Reihe, 2er-Reihe, etc.) für Multiplikationen und Divisionen
+★ Einstellbare Belohnung
+★ Optionale maximale Spielzeit
+
+<b>Einheiten umwandeln:</b>
+★ Länge
+★ Masse (Gewicht)
+★ Flüssigkeiten
+★ Metrische oder imperiale Einheiten
+
+<b>Google Play Spiele (optional)</b>
+★ Erfolge freischalten
+★ Bestenlisten für jede Kategorie
+
+<b>Berechtigungen:</b>
+Für einwandfreie Funktion muss Learn 4 Fun erkennen, ob gerade eine andere App im Vordergrund läuft. Unter Android 5.0+ ist dazu der Zugriff auf Nutzungsdaten erforderlich.
