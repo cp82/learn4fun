@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="math_series">
+        <item>1 シリーズ</item>
+        <item>2 シリーズ</item>
+        <item>3 シリーズ</item>
+        <item>4 シリーズ</item>
+        <item>5 シリーズ</item>
+        <item>6 シリーズ</item>
+        <item>7 シリーズ</item>
+        <item>8 シリーズ</item>
+        <item>9 シリーズ</item>
+        <item>10 シリーズ</item>
+    </string-array>
+
+    <string-array name="math_series_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="math_types">
+        <item>足し算</item>
+        <item>引き算</item>
+        <item>掛け算</item>
+        <item>割り算</item>
+    </string-array>
+
+    <string-array name="math_types_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>

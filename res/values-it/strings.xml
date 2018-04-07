@@ -1,0 +1,232 @@
+<resources>
+    <!--Main-->
+    <string name="app_name">Learn 4 Fun</string>
+    <string name="welcome">Ciao %s!</string>
+    <string name="welcome_message">Completa gli esercizi e guadagna tempo per giocare!</string>
+    <string name="unlock">Gioca!</string>
+    <string name="verdict_correct">PERFETTO, RISPOSTA CORRETTA!</string>
+    <string name="verdict_wrong">OOPS, RISPOSTA SBAGLIATA!</string>
+    <string name="alert_attention">Attenzione</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_cancel">Indietro</string>
+    <string name="alert_continue">Continua</string>
+
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="title_activity_about">Info</string>
+    <string name="summary_activity_about">Info su Learn 4 Fun</string>
+
+
+    <!-- Settings -->
+    <string name="pref_header_general">Generale</string>
+    <string name="pref_summary_general">Impostazioni generali</string>
+    <string name="pref_header_exercises">Esercizi</string>
+    <string name="pref_summary_exercises">Scegli i gruppi di esercizi</string>
+    <string name="pref_header_stats">Statistiche</string>
+    <string name="summary_stats">%1$d/%2$d (%3$d%%)</string>
+
+    <string name="enable_title">Attivazione esercizi</string>
+    <string name="enable_summary_on">Esercizi attivati</string>
+    <string name="enable_summary_off">Esercizi disattivati</string>
+
+
+    <string name="pref_title_display_name">Nome bambino/a</string>
+    <string name="pref_default_display_name">John</string>
+
+    <string name="math_types_title">Operazioni</string>
+    <string name="math_types_summary">Seleziona operazioni incluse</string>
+
+    <string name="math_series_title">Serie</string>
+    <string name="math_series_summary">Seleziona serie incluse</string>
+
+    <string name="title_overall">Complessive</string>
+    <string name="title_addition">Addizioni</string>
+    <string name="title_subtraction">Sottrazioni</string>
+    <string name="title_multiplication">Moltiplicazioni</string>
+    <string name="title_division">Divisioni</string>
+    <string name="title_units">Unità</string>
+    <string name="title_patterns">Schemi numerichi</string>
+
+    <string name="summary_range">Intervallo numerico %d</string>
+    <string name="summary_multi">Selezionati %d di 10</string>
+    <string name="summary_off">Disattivo</string>
+    <string name="summary_on">Attivo</string>
+
+    <string name="measurement_title">Conversione di unità</string>
+    <string name="measurement_units">Unità</string>
+    <string name="measurement_categories">Categorie</string>
+    <string name="category_length">Lunghezza</string>
+    <string name="category_weight">Massa (peso)</string>
+    <string name="category_liquid">Volume</string>
+    <string name="summary_measurement">Selezionati %d di 3</string>
+    <string name="measurement_metric">Sistema Metrico (m, kg, l, ...)</string>
+    <string name="measurement_imperial">Sistema Imperiale (in, oz, gal, ...)</string>
+
+    <string name="notification_disabled">Learn 4 Fun è disabilitato</string>
+
+    <!--Settings Password-->
+    <string name="password_title">Inserimento PIN genitore</string>
+    <string name="password_hint">Inserisci PIN</string>
+    <string name="password_confirm_hint">Conferma PIN</string>
+    <string name="pref_password_title">PIN genitore</string>
+    <string name="pref_password_summary">Modifica PIN genitore</string>
+    <string name="pref_password_message">Imposta un codice PIN per proteggere le impostazioni genitore (4-6 cifre)</string>
+
+    <string name="hint_pw_old">Vecchio PIN</string>
+    <string name="hint_pw_new">Nuovo PIN</string>
+    <string name="hint_pw_confirm">Conferma</string>
+
+    <string name="pref_whitelist_title">List bianca</string>
+    <string name="pref_whitelist_summary">Gestione app consentite</string>
+    <string name="apps_init">Caricamento elenco app. Attendere…</string>
+    <string name="search_title">Cerca</string>
+    <string name="search_hint">Cerca app</string>
+
+    <string name="toast_wrong_password">PIN errato!</string>
+    <string name="toast_password_no_match">I due PIN non corrispondono</string>
+    <string name="toast_password_changed">PIN modificato con successo!</string>
+    <string name="toast_password_short">Il PIN è troppo corto!</string>
+
+
+    <string name="pref_name_title">Nome</string>
+    <string name="pref_name_message">"Nome del bambino/a?"</string>
+
+    <string name="btn_all">Tutti</string>
+    <string name="btn_none">Nessuno</string>
+    <string name="btn_clear">Reimposta</string>
+    <string name="clear_daily">Reimposta quotidianamente</string>
+
+    <string name="one_series">1 serie</string>
+    <string name="two_series">2 serie</string>
+    <string name="three_series">3 serie</string>
+    <string name="four_series">4 serie</string>
+    <string name="five_series">5 serie</string>
+    <string name="six_series">6 serie</string>
+    <string name="seven_series">7 serie</string>
+    <string name="eight_series">8 serie</string>
+    <string name="nine_series">9 serie</string>
+    <string name="ten_series">10 serie</string>
+ *   <string name="title_activity_pager">PagerActivity</string>
+ *   <string name="action_settings">Settings</string>
+ *   <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_reward">Ricompensa</string>
+    <string name="reward_range">%d minuti per ogni risposta corretta</string>
+    <string name="reward_range_max">Limite tempo di gioco: %d minuti</string>
+    <string name="reward_max_unlimited">Limite tempo di gioco: illimitato</string>
+    <string name="title_max_playtime">Limite tempo di gioco</string>
+    <string name="supplementary_addition">Esercizi con addendo mancante</string>
+    <string name="supplementary_subtraction">Esercizi con minuendo/sottraendo mancante</string>
+    <string name="supplementary_multiplication">Esercizi con fattore mancante</string>
+    <string name="supplementary_division">Esercizi con dividendo/divisore mancante</string>
+
+    <string name="only_tens">Oltre %1$d incrementa per decine</string>
+
+*    <string name="onboarding">Introduzione</string>
+
+    <string name="screentime_min_sec">Tempo di gioco: %1$d min %2$d sec</string>
+
+
+    <!--Premium-->
+    <string name="pref_pro">Versione Premium</string>
+    <string name="pref_pro_summary">Aggiorna alla versione senza pubblicità</string>
+    <string name="alert_yes">Yes</string>
+    <string name="alert_sure">"Certamente"</string>
+    <string name="alert_no">No</string>
+    <string name="alert_no_thanks">No, grazie</string>
+    <string name="alert_upgrade_title">Aggiorna</string>
+    <string name="alert_upgrade_message">Vuoi aggiornare alla versione senza pubblicità?</string>
+    <string name="alert_premium">Grazie per aver acquistato la versione premium!</string>
+
+
+    <!--Onboarding-->
+    <string name="welcomescreen_title">Benvenuto in Learn 4 Fun!</string>
+    <string name="welcomescreen_message">Una breve introduzione prima di cominciare</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="permissions_title">Permessi</string>
+    <string name="permissions_message">È necessario che tu fornisca alcuni permessi a Learn 4 Fun per il suo funzionamento.\n\nTocca il bottone e segui le indicazioni.</string>
+    <string name="permissions_usageaccess">Per funzionare, Learn 4 Fun deve sapere se un'altra app è attiva in primo piano. Questa funzione richiede l'accesso alle statistiche di utilizzo.\n\nTocca il bottone e segui le indicazioni.</string>
+    <string name="permissions_homescreen">We recommended to set Learn 4 Fun as home screen (home app).\n\nPlease click the button and follow the instructions."</string>
+
+    <string name="alert_usagestats">Cerca Learn 4 Fun e autorizza l'accesso alle statistiche di utilizzo nella prossima schermata.\n\nPoi tocca il tasto indietro per tornare qui.</string>
+    <string name="alert_launcher">Seleziona Learn 4 Fun come app Home (launcher predefinito) nella seguente schermata.\n\nPoi tocca il tasto indietro per tornare qui.</string>
+    <string name="alert_launcher_miui">Nella prossima schermata seleziona Learn 4 Fun come launcher di default.\n\nPoi tocca il tasto indietro per tornare qui.</string>
+    <string name="alert_launcher_noactivity">Nella prossima schermata entra nelle impostazioni della app Home(launcher) e seleziona Learn 4 Fun.\n\nPoi tocca il tasto indietro per tornare qui.</string>
+    <string name="alert_autostart">Cerca Learn 4 Fun e abilita la partenza automatica nella schermata seguente.\n\nPoi tocca il tasto indietro per tornare qui.</string>
+
+    <string name="button_homescreen">Imposta come Home</string>
+    <string name="button_autostart">Partenza automatica</string>
+    <string name="button_usagestats">Autorizza accesso statistiche d'uso</string>
+    <string name="button_finish">FINE</string>
+    <string name="button_skip">No, grazie</string>
+
+    <string name="complete_title">Setup completato</string>
+    <string name="complete_message">Nel menu Impostazioni puoi modificare la password e scegliere gli esercizi in base al livello scolastico\n\nBuon divertimento!</string>
+
+
+    <!--Rating-->
+    <string name="awesome">It\'s awesome!</string>
+    <string name="like">It\'s OK</string>
+    <string name="dislike">Not so great</string>
+    <string name="alert_not_again">Don\'t ask again</string>
+    <string name="alert_rate">How do you like Learn 4 Fun?</string>
+    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
+    <string name="alert_great">Great!</string>
+    <string name="alert_send">Send</string>
+
+    <string name="alert_thanks">Thanks!</string>
+    <string name="alert_too_bad">That\'s too bad!</string>
+    <string name="alert_improve">What can we do better?</string>
+
+    <string name="feature_broken">A feature is not working</string>
+    <string name="feature_missing">A feature is missing</string>
+    <string name="ui_design">App design needs improvement</string>
+    <string name="comment">Comment</string>
+    <string name="alert_reboot_later">Later</string>
+    <string name="action_rate">Rate</string>
+    <string name="action_share">Share</string>
+    <string name="message_share">"Check out \"%s\": "</string>
+
+
+    <string name="playgames_title">Google Play Games</string>
+    <string name="playgames_summary">Sign in with your Google account</string>
+
+    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
+    <string name="achievements_exception">There was an issue communicating with achievements.</string>
+    <string name="leaderboards_exception">There was an issue communicating with leaderboards.</string>
+    <string name="players_exception">There was an issue communicating with players.</string>
+    <string name="status_exception_error">%1$s (status %2$d). %3$s.</string>
+    <string name="achievement">Achievement</string>
+    <string name="your_progress_will_be_uploaded">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="what_score_do_you_deserve">What score do you think you deserve?</string>
+    <string name="clear">Clear</string>
+    <string name="ok">OK</string>
+    <string name="choose_difficulty">Choose a difficulty to play:</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="see_your_progress">See your progress:</string>
+    <string name="show_achievements">Show Achievements</string>
+    <string name="show_leaderboards">Show Leaderboards</string>
+    <string name="sign_in_why">Sign in with Google to view leaderboards and unlock achievments</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="you_win">You win! Your score is:</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+
+    <string name="signed_in">Signed in</string>
+    <string name="signed_out">Sign in to view leaderboards and unlock achievments</string>
+
+    <string name="alert_play_title">Google Play Games</string>
+    <string name="alert_play_message">Great, you have earned an achievment!\n\nSign in with your Google account now to upload your score, save your achievements and share your progress with friends.</string>
+    <string name="alert_uninstall_title">We\'re sorry!</string>
+    <string name="title_activity_whitelist">Uninstall</string>
+    <string name="apps_selected">%1$d of %2$d apps selected</string>
+    <string name="apps_search">%1$d apps found</string>
+    <string name="alert_uninstall">Uninstall</string>
+    <string name="alert_uninstall_message">Couldn\'t start default home screen. It seems like Learn 4 Fun is not working properly on your device.</string>
+    <string name="translators">Max</string>
+    <string name="translation">Traduzione</string>
+
+
+</resources>

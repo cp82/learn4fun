@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="available_screentime">
+        <item quantity="one">プレータイム: %d 分</item>
+        <item quantity="other">プレータイム: %d 分</item>
+    </plurals>
+    <plurals name="reward_range_minutes">
+        <item quantity="one">正解一つにつき %d 分</item>
+        <item quantity="other">正解一つにつき %d 分</item>
+    </plurals>
+</resources>

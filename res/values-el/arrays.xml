@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="math_series">
+        <item>1 series</item>
+        <item>2 series</item>
+        <item>3 series</item>
+        <item>4 series</item>
+        <item>5 series</item>
+        <item>6 series</item>
+        <item>7 series</item>
+        <item>8 series</item>
+        <item>9 series</item>
+        <item>10 series</item>
+    </string-array>
+
+    <string-array name="math_series_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="math_types">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+
+    <string-array name="math_types_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>

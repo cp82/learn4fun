@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="available_screentime">
+        <item quantity="one">Tempo di gioco: %d minuto</item>
+        <item quantity="other">Tempo di gioco: %d minuti</item>
+    </plurals>
+    <plurals name="reward_range_minutes">
+        <item quantity="one">%d minuto per ogni risposta corretta</item>
+        <item quantity="other">%d minuti per ogni risposta corretta</item>
+    </plurals>
+</resources>
