@@ -1,223 +1,223 @@
 <resources>
     <!--Main-->
     <string name="app_name">Learn 4 Fun</string>
-    <string name="welcome">Hello %s!</string>
-    <string name="welcome_message">Do some exercises to earn more play time!</string>
-    <string name="unlock">Play!</string>
-    <string name="verdict_correct">PERFECT, THAT WAS CORRECT!</string>
-    <string name="verdict_wrong">OOPS, THAT WAS WRONG!</string>
-    <string name="alert_attention">Attention</string>
-    <string name="alert_ok">OK</string>
-    <string name="alert_cancel">Cancel</string>
-    <string name="alert_continue">Continue</string>
+    <string name="welcome">Привіт %s!</string>
+    <string name="welcome_message">Виконуй вправи щоб заробити час для ігор!</string>
+    <string name="unlock">Грати!</string>
+    <string name="verdict_correct">ЧУДОВО, ЦЕ ПРАВИЛЬНА ВІДПОВІДЬ!</string>
+    <string name="verdict_wrong">ОЙ, ЦЕ НЕПРАВИЛЬНА ВІДПОВІДЬ!</string>
+    <string name="alert_attention">Увага</string>
+    <string name="alert_ok">ОК</string>
+    <string name="alert_cancel">Скасувати</string>
+    <string name="alert_continue">Продовжити</string>
 
-    <string name="title_activity_settings">Settings</string>
-    <string name="title_activity_about">About</string>
-    <string name="translation">Translation</string>
-    <string name="translators">cpu82</string>
-    <string name="summary_activity_about">About Learn 4 Fun</string>
+    <string name="title_activity_settings">Налаштування</string>
+    <string name="title_activity_about">Про програму</string>
+    <string name="translation">Переклад</string>
+    <string name="translators">Artem Skoryk</string>
+    <string name="summary_activity_about">Про Learn 4 Fun</string>
 
 
     <!-- Settings -->
-    <string name="pref_header_general">General</string>
-    <string name="pref_summary_general">General settings</string>
-    <string name="pref_header_exercises">Exercises</string>
-    <string name="pref_summary_exercises">Change exercise sets</string>
-    <string name="pref_header_stats">Stats</string>
+    <string name="pref_header_general">Основні</string>
+    <string name="pref_summary_general">Основні налаштування</string>
+    <string name="pref_header_exercises">Вправи</string>
+    <string name="pref_summary_exercises">Змінити набір вправ</string>
+    <string name="pref_header_stats">Статистика</string>
     <string name="summary_stats">%1$d/%2$d (%3$d%%)</string>
 
-    <string name="enable_title">Enable exercises</string>
-    <string name="enable_summary_on">Exercises are enabled</string>
-    <string name="enable_summary_off">Exercises are disabled</string>
+    <string name="enable_title">Увімкнути вправи</string>
+    <string name="enable_summary_on">Вправи увімкнені</string>
+    <string name="enable_summary_off">Вправи вимкнені</string>
 
 
-    <string name="pref_title_display_name">Kid\'s name</string>
-    <string name="pref_default_display_name">John</string>
+    <string name="pref_title_display_name">Ім’я дитини</string>
+    <string name="pref_default_display_name">Леся</string>
 
-    <string name="math_types_title">Operations</string>
-    <string name="math_types_summary">Select involved operations </string>
+    <string name="math_types_title">Дії</string>
+    <string name="math_types_summary">Виберіть дії</string>
 
-    <string name="math_series_title">Series</string>
-    <string name="math_series_summary">Select included series</string>
+    <string name="math_series_title">Серії</string>
+    <string name="math_series_summary">Виберіть серії</string>
 
-    <string name="title_overall">Overall</string>
-    <string name="title_addition">Addition</string>
-    <string name="title_subtraction">Subtraction</string>
-    <string name="title_multiplication">Multiplication</string>
-    <string name="title_division">Division</string>
-    <string name="title_units">Units</string>
-    <string name="title_patterns">Number Patterns</string>
+    <string name="title_overall">Загально</string>
+    <string name="title_addition">Додавання</string>
+    <string name="title_subtraction">Віднімання</string>
+    <string name="title_multiplication">Множення</string>
+    <string name="title_division">Ділення</string>
+    <string name="title_units">Величини</string>
+    <string name="title_patterns">Числові шаблони</string>
 
-    <string name="summary_range">Number range %d</string>
-    <string name="summary_multi">%d out of 10 selected</string>
-    <string name="summary_off">Off</string>
-    <string name="summary_on">On</string>
+    <string name="summary_range">Діапазон номерів %d</string>
+    <string name="summary_multi">%d з 10 вибрано</string>
+    <string name="summary_off">Вимкнено</string>
+    <string name="summary_on">Увімкнено</string>
 
-    <string name="measurement_title">Unit conversions</string>
-    <string name="measurement_units">Units</string>
-    <string name="measurement_categories">Categories</string>
-    <string name="category_length">Length</string>
-    <string name="category_weight">Mass (weight)</string>
-    <string name="category_liquid">Liquids</string>
-    <string name="summary_measurement">%d out of 3 selected</string>
-    <string name="measurement_metric">Metric (m, kg, l, ...)</string>
-    <string name="measurement_imperial">Imperial (in, oz, gal, ...)</string>
+    <string name="measurement_title">Перетворення величин</string>
+    <string name="measurement_units">Величини</string>
+    <string name="measurement_categories">Категорії</string>
+    <string name="category_length">Довжина</string>
+    <string name="category_weight">Вага</string>
+    <string name="category_liquid">Об’єм</string>
+    <string name="summary_measurement">%d з 3 вибрано</string>
+    <string name="measurement_metric">Метрична (м, кг, л, ...)</string>
+    <string name="measurement_imperial">Англійська (in, oz, gal, ...)</string>
 
-    <string name="notification_disabled">Learn 4 Fun is disabled</string>
+    <string name="notification_disabled">Learn 4 Fun вимкнено</string>
 
     <!--Settings Password-->
-    <string name="password_title">Enter parents\' PIN</string>
-    <string name="password_hint">Enter PIN</string>
-    <string name="password_confirm_hint">Confirm PIN</string>
-    <string name="pref_password_title">Parents\' PIN</string>
-    <string name="pref_password_summary">Change parents\' PIN</string>
-    <string name="pref_password_message">Set a PIN code to protect access to app settings (4-6 digits)</string>
+    <string name="password_title">Введіть батьківський PIN</string>
+    <string name="password_hint">Ввести PIN</string>
+    <string name="password_confirm_hint">Підтвірдити PIN</string>
+    <string name="pref_password_title">Батьківський PIN</string>
+    <string name="pref_password_summary">Змінити батьківський PIN</string>
+    <string name="pref_password_message">Встановити PIN код для захисту доступу до налаштувань програми (4-6 чисел)</string>
 
-    <string name="hint_pw_old">Old PIN</string>
-    <string name="hint_pw_new">New PIN</string>
-    <string name="hint_pw_confirm">Confirm</string>
+    <string name="hint_pw_old">Старий PIN</string>
+    <string name="hint_pw_new">Новий PIN</string>
+    <string name="hint_pw_confirm">Підтвердити</string>
 
-    <string name="pref_whitelist_title">White list</string>
-    <string name="pref_whitelist_summary">Manage allowed apps</string>
-    <string name="apps_init">Analyzing installed apps. Just a sec…</string>
-    <string name="search_title">Search</string>
-    <string name="search_hint">Search for apps</string>
+    <string name="pref_whitelist_title">Білий список</string>
+    <string name="pref_whitelist_summary">Керувати дозволеними програмами</string>
+    <string name="apps_init">Аналіз встановлених програм. Декілька секунд…</string>
+    <string name="search_title">Пошук</string>
+    <string name="search_hint">Пошук програм</string>
 
-    <string name="toast_wrong_password">You entered a wrong PIN!</string>
-    <string name="toast_password_no_match">The PINs do not match</string>
-    <string name="toast_password_changed">PIN successfully changed!</string>
-    <string name="toast_password_short">PIN is too short!</string>
+    <string name="toast_wrong_password">Введено невірний PIN!</string>
+    <string name="toast_password_no_match">PIN номери не співпадають</string>
+    <string name="toast_password_changed">PIN успішно змінено!</string>
+    <string name="toast_password_short">PIN занадто короткий!</string>
 
 
-    <string name="pref_name_title">Name</string>
-    <string name="pref_name_message">"What's your kid's name (for personal greeting)?"</string>
+    <string name="pref_name_title">Ім’я</string>
+    <string name="pref_name_message">"Ім’я вашої дитини (для персоналізованих вітаннь)?"</string>
 
-    <string name="btn_all">All</string>
-    <string name="btn_none">None</string>
-    <string name="btn_clear">Reset</string>
-    <string name="clear_daily">Reset daily</string>
+    <string name="btn_all">Все</string>
+    <string name="btn_none">Нічого</string>
+    <string name="btn_clear">Скинути</string>
+    <string name="clear_daily">Скидати щоденно</string>
 
-    <string name="one_series">1 series</string>
-    <string name="two_series">2 series</string>
-    <string name="three_series">3 series</string>
-    <string name="four_series">4 series</string>
-    <string name="five_series">5 series</string>
-    <string name="six_series">6 series</string>
-    <string name="seven_series">7 series</string>
-    <string name="eight_series">8 series</string>
-    <string name="nine_series">9 series</string>
-    <string name="ten_series">10 series</string>
+    <string name="one_series">1 серія</string>
+    <string name="two_series">2 серія</string>
+    <string name="three_series">3 серія</string>
+    <string name="four_series">4 серія</string>
+    <string name="five_series">5 серія</string>
+    <string name="six_series">6 серія</string>
+    <string name="seven_series">7 серія</string>
+    <string name="eight_series">8 серія</string>
+    <string name="nine_series">9 серія</string>
+    <string name="ten_series">10 серія</string>
     <string name="title_activity_pager">PagerActivity</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Налаштування</string>
     <string name="section_format">Hello World from section: %1$d</string>
 
-    <string name="title_reward">Reward</string>
-    <string name="reward_range">%d minutes per correct answer</string>
-    <string name="reward_range_max">Max play time: %d minutes</string>
-    <string name="reward_max_unlimited">Max play time: unlimited</string>
-    <string name="title_max_playtime">Maximum play time</string>
-    <string name="supplementary_addition">Missing addend exercises</string>
-    <string name="supplementary_subtraction">Missing minuend exercises</string>
-    <string name="supplementary_multiplication">Missing factor exercises</string>
-    <string name="supplementary_division">Missing divisor exercises</string>
+    <string name="title_reward">Нагорода</string>
+    <string name="reward_range">%d хвилин за правильну відповідь</string>
+    <string name="reward_range_max">Макс. час для ігор: %d хвилин</string>
+    <string name="reward_max_unlimited">Макс. час для ігор: необмежено</string>
+    <string name="title_max_playtime">Макс. час для ігор</string>
+    <string name="supplementary_addition">Відсутні вправи на додавання</string>
+    <string name="supplementary_subtraction">Відсутні вправи на віднімання</string>
+    <string name="supplementary_multiplication">Відсутні вправи на множення</string>
+    <string name="supplementary_division">Відсутні вправи на ділення</string>
 
-    <string name="only_tens">Above %1$d only in increments of ten</string>
+    <string name="only_tens">Вище %1$d лише з кроком десять</string>
 
-    <string name="onboarding">Onboarding</string>
+    <string name="onboarding">Вступ</string>
 
-    <string name="screentime_min_sec">Play time: %1$d min %2$d sec</string>
+    <string name="screentime_min_sec">Час для ігор: %1$d хв %2$d сек</string>
 
 
     <!--Premium-->
-    <string name="pref_pro">Remove ads</string>
-    <string name="pref_pro_summary">Upgrade to the ad free version</string>
-    <string name="alert_yes">Yes</string>
-    <string name="alert_sure">"Sure, I'm in"</string>
-    <string name="alert_no">No</string>
-    <string name="alert_no_thanks">No, thanks</string>
-    <string name="alert_upgrade_title">Upgrade</string>
-    <string name="alert_upgrade_message">Would you like to upgrade to the ad free version?</string>
-    <string name="alert_premium">Thank you for upgrading to premium!</string>
+    <string name="pref_pro">Видалити рекламу</string>
+    <string name="pref_pro_summary">Оновити до версії без реклами</string>
+    <string name="alert_yes">Так</string>
+    <string name="alert_sure">"Звичайно"</string>
+    <string name="alert_no">Ні</string>
+    <string name="alert_no_thanks">Ні, дякую</string>
+    <string name="alert_upgrade_title">Оновити</string>
+    <string name="alert_upgrade_message">Ви бажаєте оновити програму до версії без реклами?</string>
+    <string name="alert_premium">Дякуємо за оновлення до преміум версії!</string>
 
 
     <!--Onboarding-->
-    <string name="welcomescreen_title">Welcome to Learn 4 Fun!</string>
-    <string name="welcomescreen_message">"Let's go over some settings together before we can start</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="welcomescreen_title">Вітаємо у Learn 4 Fun!</string>
+    <string name="welcomescreen_message">"Необхідно зробити деякі налаштування, перед тим як ми зможемо почати</string>
+    <string name="title_activity_main">MainActivity</string>зап
 
-    <string name="permissions_title">Permissions</string>
-    <string name="permissions_message">"In order to work properly, Learn 4 Fun requires you to grant some permissions.\n\nPlease click the button and follow the instructions."</string>
-    <string name="permissions_usageaccess">"In order to work properly, Learn 4 Fun needs to detect if another app runs in foreground. This feature requires usage access\n\nPlease click the button and follow the instructions."</string>
-    <string name="permissions_homescreen">"We recommended to set Learn 4 Fun as home screen (home app).\n\nPlease click the button and follow the instructions."</string>
+    <string name="permissions_title">Дозволи</string>
+    <string name="permissions_message">"Для коректної роботи, Learn 4 Fun необхідно отримати деякі дозволи.\n\nБудь ласка натисніть кнопку та дотримуйтесь інструкцій."</string>
+    <string name="permissions_usageaccess">"Для коректної роботи, Learn 4 Fun необхідно виявляти чи працюють інші програми. Ця функція вимагає доступу до використання даних\n\nБудь ласка натисніть кнопку та дотримуйтесь інструкцій."</string>
+    <string name="permissions_homescreen">"Ми рекомендуємо встановити Learn 4 Fun як домашній екран.\n\nБудь ласка натисніть кнопку та дотримуйтесь інструкцій."</string>
 
-    <string name="alert_usagestats">Look for Learn 4 Fun and enable usage access for Learn 4 fun in the next dialog.\n\nThen use the back button to return here."</string>
-    <string name="alert_launcher">"Select Learn 4 Fun as home app (default launcher) in the following dialog.\n\nThen use the back button to return here."</string>
-    <string name="alert_launcher_miui">"Go to default launcher in the following dialog, then select Learn 4 Fun.\n\nThen use the back button to return here."</string>
-    <string name="alert_launcher_noactivity">"Go to home app (launcher) settings in the following dialog, then select Learn 4 Fun.\n\nThen use the back button to return here."</string>
-    <string name="alert_autostart">"Look for Learn 4 Fun and enable autostart in the following dialog.\n\nThen use the back button to return here."</string>
+    <string name="alert_usagestats">Знайдіть Learn 4 Fun і увімкніть використання даних для Learn 4 fun у наступному діалозі.\n\nПотім натисніть кнопку назад для повернення."</string>
+    <string name="alert_launcher">"Виберіть Learn 4 Fun як домашній екран (лаунчер за замовчуванням) у наступному діалозі.\n\nПотім натисніть кнопку назад для повернення."</string>
+    <string name="alert_launcher_miui">"Перейдіть до лаунчера за замовчуванням у наступному діалозі і виберіть Learn 4 Fun.\n\nПотім натисніть кнопку назад для повернення."</string>
+    <string name="alert_launcher_noactivity">"Перейдіть до налаштувань домашньго екрану (лаунчер) у наступному діалозі і виберіть Learn 4 Fun.\n\nПотім натисніть кнопку назад для повернення."</string>
+    <string name="alert_autostart">"Знайдіть Learn 4 Fun і увімкніть автозапуск у наступному діалозі.\n\nПотім натисніть кнопку назад для повернення."</string>
 
-    <string name="button_homescreen">Set as Home Screen</string>
-    <string name="button_autostart">Allow Autostart</string>
-    <string name="button_usagestats">Grant usage access</string>
-    <string name="button_finish">FINISH</string>
-    <string name="button_skip">No, thanks</string>
+    <string name="button_homescreen">Установити як домашній екран</string>
+    <string name="button_autostart">Дозволити автозапуск</string>
+    <string name="button_usagestats">Надати доступ до даних</string>
+    <string name="button_finish">ЗАВЕРШИТИ</string>
+    <string name="button_skip">Ні, дякую</string>
 
-    <string name="complete_title">Setup complete</string>
-    <string name="complete_message">In the settings menu, you can change your password and select different exercises according to level of education\n\nHave fun!</string>
+    <string name="complete_title">Установка завершена</string>
+    <string name="complete_message">У меню налаштувань, ви можете змінити пароль та вибрати інші вправи відповідно до рівня знань\n\nУспіхів!</string>
 
 
     <!--Rating-->
-    <string name="awesome">It\'s awesome!</string>
-    <string name="like">It\'s OK</string>
-    <string name="dislike">Not so great</string>
-    <string name="alert_not_again">Don\'t ask again</string>
-    <string name="alert_rate">How do you like Learn 4 Fun?</string>
-    <string name="alert_rate_market">Please share your opinion with others on Google Play.\n\nThanks!</string>
-    <string name="alert_great">Great!</string>
-    <string name="alert_send">Send</string>
+    <string name="awesome">Відмінно!</string>
+    <string name="like">Нормально</string>
+    <string name="dislike">Не дуже добре</string>
+    <string name="alert_not_again">Більше не питати</string>
+    <string name="alert_rate">Наскільки вам подобається Learn 4 Fun?</string>
+    <string name="alert_rate_market">Будьласка поділіться вашою думкою з іншими у Google Play.\n\nДякуємо!</string>
+    <string name="alert_great">Чудово!</string>
+    <string name="alert_send">Відправити</string>
 
-    <string name="alert_thanks">Thanks!</string>
-    <string name="alert_too_bad">That\'s too bad!</string>
-    <string name="alert_improve">What can we do better?</string>
+    <string name="alert_thanks">Дякуємо!</string>
+    <string name="alert_too_bad">Дуже погано!</string>
+    <string name="alert_improve">Що ми можемо покращити?</string>
 
-    <string name="feature_broken">A feature is not working</string>
-    <string name="feature_missing">A feature is missing</string>
-    <string name="ui_design">App design needs improvement</string>
-    <string name="comment">Comment</string>
-    <string name="alert_reboot_later">Later</string>
-    <string name="action_rate">Rate</string>
-    <string name="action_share">Share</string>
-    <string name="message_share">"Check out \"%s\": "</string>
+    <string name="feature_broken">Функціонал не працює</string>
+    <string name="feature_missing">Не вистачає функціоналу</string>
+    <string name="ui_design">Дизайн потребує покращення</string>
+    <string name="comment">Коментувати</string>
+    <string name="alert_reboot_later">Пізніше</string>
+    <string name="action_rate">Оцінити</string>
+    <string name="action_share">Поділитися</string>
+    <string name="message_share">"Перевірити \"%s\": "</string>
 
     <!--Error Default Launcher-->
-    <string name="alert_uninstall_title">"We're sorry!"</string>
-    <string name="alert_uninstall_message">"Couldn't start default home screen. It seems like Learn 4 Fun is not working properly on your device."</string>
-    <string name="alert_uninstall">Uninstall</string>
+    <string name="alert_uninstall_title">"Наші вибачення!"</string>
+    <string name="alert_uninstall_message">"Неможливо запустити домашній екран за замовчуванням. Здається Learn 4 Fun працює неправильно на вашому пристрої."</string>
+    <string name="alert_uninstall">Видалити</string>
 
     <!--White List-->
-    <string name="title_activity_whitelist">White list</string>
-    <string name="apps_search">%1$d apps found</string>
-    <string name="apps_selected">%1$d of %2$d apps selected</string>
+    <string name="title_activity_whitelist">Білий список</string>
+    <string name="apps_search">%1$d програм знайдено</string>
+    <string name="apps_selected">%1$d of %2$d програм вибрано</string>
 
     <!--Google Play Games-->
     <string name="playgames_title">Google Play Games</string>
-    <string name="playgames_summary">Sign in with your Google account</string>
+    <string name="playgames_summary">Увійти зі своїм Google аккаунтом</string>
 
-    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
-    <string name="achievement">Achievement</string>
-    <string name="show_achievements">Show Achievements</string>
-    <string name="show_leaderboards">Show Leaderboards</string>
-    <string name="sign_in_why">Sign in with Google to view leaderboards and unlock achievments</string>
-    <string name="you_are_signed_in">You are signed in with Google.</string>
-    <string name="sign_out">Sign out</string>
-    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
-    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+    <string name="signed_out_greeting">Привіт, анонімний користувач (не ввійшов)!</string>
+    <string name="achievement">Досягнення</string>
+    <string name="show_achievements">Показати Досягнення</string>
+    <string name="show_leaderboards">Показати Таблицю переможців</string>
+    <string name="sign_in_why">Увійти з Google для перегляду таблиці переможців та розблокування досягненнь</string>
+    <string name="you_are_signed_in">Ви увійшли з Google.</string>
+    <string name="sign_out">Вийти</string>
+    <string name="sign_in_to_upload_this_score">Увійти зараз для завантаження цьго результату, збереження досягнень та змоги поділитися твоїм прогресом з друзями.</string>
+    <string name="signin_other_error">Виникла проблема з входом.  Спробуйте ще раз, пізніше.</string>
 
-    <string name="signed_in">Signed in</string>
-    <string name="signed_out">Sign in to view leaderboards and unlock achievments</string>
+    <string name="signed_in">Увійшов</string>
+    <string name="signed_out">Увійти для перегляду таблиці переможців та розблокування досягненнь</string>
 
     <string name="alert_play_title">Google Play Games</string>
-    <string name="alert_play_message">Great, you have earned an achievment!\n\nSign in with your Google account now to upload your score, save your achievements and share your progress with friends.</string>
+    <string name="alert_play_message">Чудово, у тебе є нові досягнення!\n\nУвійти з Google аккаунтом зараз для завантаження цьго результату, збереження досягнень та змоги поділитися твоїм прогресом з друзями.</string>
 
 
 
