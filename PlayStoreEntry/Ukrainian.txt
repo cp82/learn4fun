@@ -1,56 +1,56 @@
 ﻿Title
 =====
 
-Learn 4 Fun - Math Exercises
+Learn 4 Fun - Математичні вправи
 
 
 
 Short Description
 =================
 
-Let your kids do some math exercises before using their phone or tablet!
+Виконай декілька математичних вправ перед використанням телефона чи планшета!
 
 
 Description
 ===========
 
-Learn 4 Fun works like a screen lock. Before accessing the apps or games on the phone or tablet, your kids have to solve some math exercises first and are rewarded with play time.
+Learn 4 Fun працює як екран блокування. Перед розблокуванням телефона чи планшета, ваша дитина повинна спочатку виконати декілька математичних вправ та отримати за це час для ігор.
 
-Once time is up, access will be locked and the exercise screen appears again.
-
-
-Learn 4 Fun is not a kids mode! Access to apps and internet is not restricted.
+Як тільки час скінчиться, пристриій буде заблоковано і екран з вправами з'явиться знову.
 
 
-Selectable mathematical operations:
-★ Addition
-★ Subtraction
-★ Multiplication
-★ Division
-★ Unit conversions
-★ Number patterns
+Learn 4 Fun це не дитячий режим! Доступ до програм та інтернету не обмежується.
 
 
-Advanced features:
-★ Stats
-★ Phone is always accessible (e.g. for emergency calls)
-★ Password protected parents settings
-★ Incorrectly solved exercises are repeated more often
-★ Adjustable number range for additions and subtractions
-★ Select specific series for multiplications and division
-★ Adjustable play time reward
-★ Adjustable maximum play time
+Вибір математичних операцій:
+★ Додавання
+★ Віднімання
+★ Множення
+★ Ділення
+★ Перетворення величин
+★ Числові шаблони
 
-Unit conversions:
-★ Length
-★ Mass (weight)
-★ Liquids
-★ Imperial or metric units
 
-Google Play Games (optional)
-★ Unlock Achievments
-★ Leaderboards for every category
+Додаткові можливості:
+★ Статистика
+★ Телефон завжди доступний (наприклад для екстрених викликів)
+★ Захист паролем батьківських налаштувань
+★ Невірно вирішені вправи будуть повторюватись частіше
+★ Регульований діапазон чисел для додавання та віднімання
+★ Вибір окремих серій для множення та ділення
+★ Регульована кількість отримуваного часу для ігор
+★ Регульована максимальна кількість часу для ігор
 
-Permissions:
-In order to work properly, Learn 4 Fun needs to check if another app is currently running
-in foreground. On devices running Android 5.0+, this feature requires usage access.
+Перетворення величин:
+★ Довжина
+★ Вага
+★ Об'єм (рідини)
+★ Метрична чи Англійска системи мір
+
+Google Play Games (необов'язково)
+★ Розблокування досягнень
+★ Список лідерів для кожної категорії
+
+Дозволи:
+Для коректної роботи, Learn 4 Fun необхідно виявляти чи працюють у фоні інші програми.
+На пристроях Android 5.0+, ця функція вимагає доступу до використання даних.
