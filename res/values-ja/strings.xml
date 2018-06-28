@@ -1,44 +1,45 @@
 <resources>
     <!--Main-->
-    <string name="app_name">数字エクササイズ</string>
-    <string name="welcome">ハロー %s!</string>
-    <string name="welcome_message">プレータイム獲得のために少しのエクササイズをしよう！</string>
-    <string name="unlock">プレー!</string>
-    <string name="verdict_correct">パーフェクト、正解です！</string>
-    <string name="verdict_wrong">夫、間違いです！</string>
+    <string name="app_name">Learn 4 Fun</string>
+    <string name="welcome">こんにちは %s!</string>
+    <string name="welcome_message">自由時間を獲得するため、数学の課題を解きましょう！</string>
+    <string name="unlock">遊ぼう！</string>
+    <string name="verdict_correct">すごい、正解です！</string>
+    <string name="verdict_wrong">あれれ、間違いです！</string>
     <string name="alert_attention">注意</string>
     <string name="alert_ok">OK</string>
     <string name="alert_cancel">キャンセル</string>
     <string name="alert_continue">続ける</string>
 
     <string name="title_activity_settings">設定</string>
-    <string name="title_activity_about">関連して</string>
-    <string name="summary_activity_about">数字エクササイズについて</string>
+    <string name="title_activity_about">このアプリについて</string>
+    <string name="translation">日本語の翻訳</string>
+    <string name="translators">ScratchBuild</string>
+    <string name="summary_activity_about">Learn 4 Funについて</string>
 
 
     <!-- Settings -->
-    <string name="pref_header_general">一般</string>
-    <string name="pref_summary_general">一般設定</string>
-    <string name="pref_header_exercises">エクササイズ</string>
-    <string name="pref_summary_exercises">エクササイズを変更</string>
-    <string name="pref_header_stats">スタッツ</string>
-    <string name="summary_stats">%1$d/%2$d (%3$d%%)</string>
+    <string name="pref_header_general">全般</string>
+    <string name="pref_summary_general">全般設定</string>
+    <string name="pref_header_exercises">課題</string>
+    <string name="pref_summary_exercises">課題を変更</string>
+    <string name="pref_header_stats">使用状況</string>
 
-    <string name="enable_title">エクササイズ可能にする</string>
-    <string name="enable_summary_on">エクササイズ可能です</string>
-    <string name="enable_summary_off">エクササイズは停止です</string>
+    <string name="enable_title">課題を有効にする</string>
+    <string name="enable_summary_on">課題は有効です</string>
+    <string name="enable_summary_off">課題は無効です</string>
 
 
     <string name="pref_title_display_name">子供の名前</string>
-    <string name="pref_default_display_name">ジョン</string>
+    <string name="pref_default_display_name">太郎</string>
 
     <string name="math_types_title">操作</string>
-    <string name="math_types_summary">必要な操作をセレクト</string>
+    <string name="math_types_summary">必要な操作を選択</string>
 
     <string name="math_series_title">シリーズ</string>
-    <string name="math_series_summary">含まれるシリーズをセレクト</string>
+    <string name="math_series_summary">含めるシリーズを選択</string>
 
-    <string name="title_overall">Overallオーバーオール</string>
+    <string name="title_overall">すべて</string>
     <string name="title_addition">足し算</string>
     <string name="title_subtraction">引き算</string>
     <string name="title_multiplication">掛け算</string>
@@ -47,7 +48,7 @@
     <string name="title_patterns">数字パターン</string>
 
     <string name="summary_range">数字桁数 %d</string>
-    <string name="summary_multi">選択した１０個中　%d</string>
+    <string name="summary_multi">選択済み: %d/10個</string>
     <string name="summary_off">オフ</string>
     <string name="summary_on">オン</string>
 
@@ -57,19 +58,19 @@
     <string name="category_length">長さ</string>
     <string name="category_weight">量 (重さ)</string>
     <string name="category_liquid">液体</string>
-    <string name="summary_measurement">選択した３個中　%d</string>
-    <string name="measurement_metric">メーター法 (m, kg, l, ...)</string>
-    <string name="measurement_imperial">インペリアル法 (in, oz, gal, ...)</string>
+    <string name="summary_measurement">選択済み: %d/3個</string>
+    <string name="measurement_metric">メートル法 (m, kg, ℓ, ...)</string>
+    <string name="measurement_imperial">ヤードポンド法 (in, oz, gal, ...)</string>
 
-    <string name="notification_disabled">数字エクササイズは停止しています</string>
+    <string name="notification_disabled">Learn 4 Funは無効になっています</string>
 
     <!--Settings Password-->
-    <string name="password_title">ペアレンタル\' PINを入力</string>
+    <string name="password_title">保護者のPINを入力</string>
     <string name="password_hint">PINを入力</string>
     <string name="password_confirm_hint">PINを確認</string>
-    <string name="pref_password_title">ペアレンタル\' PIN</string>
-    <string name="pref_password_summary">ペアレンタル\' PINを変更</string>
-    <string name="pref_password_message">アプリ設定にアクセスするPINコードをセットする(4-6桁の数字)</string>
+    <string name="pref_password_title">保護者のPIN</string>
+    <string name="pref_password_summary">保護者のPINを変更</string>
+    <string name="pref_password_message">アプリ設定にアクセスするためのPINコードをセットする(4-6桁の数字)</string>
 
     <string name="hint_pw_old">古いPIN</string>
     <string name="hint_pw_new">新しいPIN</string>
@@ -77,20 +78,20 @@
 
     <string name="pref_whitelist_title">ホワイトリスト</string>
     <string name="pref_whitelist_summary">許可されたアプリを編集</string>
-    <string name="apps_init">インストールされたアプリを分析。お待ちください…</string>
+    <string name="apps_init">インストール済みアプリを分析。お待ちください…</string>
     <string name="search_title">検索</string>
     <string name="search_hint">アプリを検索</string>
 
-    <string name="toast_wrong_password">間違ったPINを入力しました！</string>
-    <string name="toast_password_no_match">PINがマッチしません</string>
-    <string name="toast_password_changed">PIN変更成功！</string>
-    <string name="toast_password_short">PINが短すぎます！</string>
+    <string name="toast_wrong_password">間違ったPINを入力しました</string>
+    <string name="toast_password_no_match">PINが一致しません</string>
+    <string name="toast_password_changed">PINが正常に変更されました</string>
+    <string name="toast_password_short">PINが短すぎます</string>
 
 
     <string name="pref_name_title">名前</string>
-    <string name="pref_name_message">"子供の名前は何ですか(あいさつ用)?"</string>
+    <string name="pref_name_message">"子供の名前は何ですか？ (あいさつ用)"</string>
 
-    <string name="btn_all">全て</string>
+    <string name="btn_all">すべて</string>
     <string name="btn_none">なし</string>
     <string name="btn_clear">リセット</string>
     <string name="clear_daily">毎日リセット</string>
@@ -105,86 +106,63 @@
     <string name="eight_series">8 シリーズ</string>
     <string name="nine_series">9 シリーズ</string>
     <string name="ten_series">10 シリーズ</string>
-    <string name="title_activity_pager">ページャーアクティビティ</string>
+    <string name="title_activity_pager">PagerActivity</string>
     <string name="action_settings">設定</string>
-    <string name="section_format">ハローワールド　セクション: %1$d</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 
-    <string name="title_reward">報酬</string>
-    <string name="reward_range">正解一つにつき %d 分</string>
-    <string name="reward_range_max">マックスプレータイム: %d 分</string>
-    <string name="reward_max_unlimited">マックスプレータイム: 無制限</string>
-    <string name="title_max_playtime">最大プレータイム</string>
-    <string name="supplementary_addition">足し算穴埋めエクササイズ</string>
-    <string name="supplementary_subtraction">引き算穴埋めエクササイズ</string>
-    <string name="supplementary_multiplication">掛け算穴埋めエクササイズ</string>
-    <string name="supplementary_division">割り算穴埋めエクササイズ</string>
+    <string name="title_reward">ご褒美</string>
+    <string name="reward_range">正解一つにつき %d分</string>
+    <string name="reward_range_max">最長自由時間: %d分</string>
+    <string name="reward_max_unlimited">最長自由時間: 無制限</string>
+    <string name="title_max_playtime">最長自由時間</string>
+    <string name="supplementary_addition">足し算(穴埋め)の課題</string>
+    <string name="supplementary_subtraction">引き算(穴埋め)の課題</string>
+    <string name="supplementary_multiplication">掛け算(穴埋め)の課題</string>
+    <string name="supplementary_division">割り算(穴埋め)の課題</string>
 
-    <string name="only_tens"> %1$d 上のみ１０の倍数</string>
+    <string name="only_tens"> %1$d 上のみ10の倍数</string>
 
     <string name="onboarding">オンボード</string>
 
-    <string name="screentime_min_sec">プレータイム: %1$d 分 %2$d 秒</string>
+    <string name="screentime_min_sec">自由時間: %1$d分%2$d秒</string>
 
 
     <!--Premium-->
     <string name="pref_pro">広告を削除</string>
     <string name="pref_pro_summary">広告削除バージョンにアップグレードする</string>
     <string name="alert_yes">はい</string>
-    <string name="alert_sure">"もちろん、入ります"</string>
+    <string name="alert_sure">参加する</string>
     <string name="alert_no">いいえ</string>
-    <string name="alert_no_thanks">いいえ、必要ありません</string>
+    <string name="alert_no_thanks">結構です</string>
     <string name="alert_upgrade_title">アップグレード</string>
     <string name="alert_upgrade_message">広告削除バージョンにアップグレードしますか？</string>
     <string name="alert_premium">プレミアムにアップグレードありがとうございます！</string>
 
 
     <!--Onboarding-->
-    <string name="welcomescreen_title">数字エクササイズにようこそ！</string>
-    <string name="welcomescreen_message">"始める前にセッティングをしましょう</string>
-    <string name="title_activity_main">メインアクティビティ</string>
+    <string name="welcomescreen_title">Learn 4 Funにようこそ！</string>
+    <string name="welcomescreen_message">始める前に設定をしましょう</string>
+    <string name="title_activity_main">MainActivity</string>
 
-    <string name="permissions_title">許可</string>
-    <string name="permissions_message">"正しく作動させるために数字エクササイズはいくつかの許可を求めることがあります。\n\nクリックして指示にお進みください。"</string>
-    <string name="permissions_usageaccess">"正しく作動させるために数字エクササイズはその他のアプリが開いていないか確認する必要があります。この機能は使用アクセスを求められます。\n\nボタンをクリックし指示にお進みください。"</string>
-    <string name="permissions_homescreen">"数字エクササイズをホームスクリーンにセットすることをお勧めします(ホームアプリ)。\n\nボタンをクリックして指示にお進みください。"</string>
+    <string name="permissions_title">アクセス許可</string>
+    <string name="permissions_message">"正しく作動させるためにLearn 4 Funはいくつかの許可を求めることがあります。\n\nボタンをタップし、指示に従ってください。"</string>
+    <string name="permissions_usageaccess">"正しく作動させるためにLearn 4 Funはその他のアプリが開いていないか確認する必要があります。この機能は使用アクセスを求められます。\n\nボタンをタップし、指示に従ってください。"</string>
+    <string name="permissions_homescreen">"Learn 4 Funをホーム画面に設定することをお勧めします(ホームアプリ)。\n\nボタンをタップし、指示に従ってください。"</string>
 
-    <string name="alert_usagestats">数字エクササイズを探し、数字エクササイズのための使用アクセスを次のダイアログから可能にしてください。\n\nこちらに戻るためにはバックボタンを使用してください。"</string>
-    <string name="alert_launcher">"数字エクササイズを次のダイアログからホームアプリに選択(デフォルト起動)。\n\nこちらに戻るためにはバックボタンを使用してください。"</string>
-    <string name="alert_launcher_miui">"以下のダイアログからデフォルト起動に進み、数字エクササイズを選択。\n\nこちらに戻るためにはバックボタンを使用してください。"</string>
-    <string name="alert_launcher_noactivity">"以下のダイアログからホームアプリ設定に進み(起動)数字エクササイズを選択。\n\nこちらに戻るためにはバックボタンを使用してください。"</string>
-    <string name="alert_autostart">"数字エクササイズを探し、以下のダイアログから自動起動を可能にしてください。\n\nこちらに戻るためにはバックボタンを使用してください。"</string>
+    <string name="alert_usagestats">Learn 4 Funを探し、Learn 4 Funのための使用アクセスを次のダイアログから有効にしてください。\n\nこの画面に戻るためには[戻る]ボタンを使用してください。"</string>
+    <string name="alert_launcher">"Learn 4 Funを次のダイアログからホームアプリに選択(デフォルト起動)。\n\nこの画面に戻るためには[戻る]ボタンを使用してください。"</string>
+    <string name="alert_launcher_miui">"以下のダイアログからデフォルト起動に進み、Learn 4 Funを選択。\n\nこの画面に戻るためには[戻る]ボタンを使用してください。"</string>
+    <string name="alert_launcher_noactivity">"以下のダイアログからホームアプリ(ランチャー)の設定に進み、Learn 4 Funを選択。\n\nこの画面に戻るためには[戻る]ボタンを使用してください。"</string>
+    <string name="alert_autostart">"Learn 4 Funを探し、以下のダイアログから自動起動を有効にしてください。\n\nこの画面に戻るためには[戻る]ボタンを使用してください。"</string>
 
-    <string name="button_homescreen">ホームスクリーンにセット</string>
-    <string name="button_autostart">自動スタートを許可</string>
-    <string name="button_usagestats">しようアクセスを許可</string>
-    <string name="button_finish">フィニッシュ</string>
-    <string name="button_skip">いいえ、結構です</string>
+    <string name="button_homescreen">ホーム画面に設定</string>
+    <string name="button_autostart">自動起動を許可</string>
+    <string name="button_usagestats">使用状況へのアクセスを許可</string>
+    <string name="button_finish">完了</string>
+    <string name="button_skip">結構です</string>
 
     <string name="complete_title">セットアップ完了</string>
-    <string name="complete_message">セッティングメニューからパスワード変更と、レベルに応じてエクササイズ難度を変更できます\n\n楽しんでください！</string>
-
-
-    <string name="playgames_title">Google Play Games</string>
-    <string name="playgames_summary">Sign in with your Google account</string>
-
-
-    <string name="achievement">Achievement</string>
-
-    <string name="see_your_progress">See your progress:</string>
-    <string name="show_achievements">Show Achievements</string>
-    <string name="show_leaderboards">Show Leaderboards</string>
-    <string name="sign_in_why">Sign in with Google to view leaderboards and unlock achievments</string>
-    <string name="you_are_signed_in">You are signed in with Google.</string>
-    <string name="sign_out">Sign out</string>
-
-    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
-    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
-
-    <string name="signed_in">Signed in</string>
-    <string name="signed_out">Sign in to view leaderboards and unlock achievments</string>
-
-    <string name="alert_play_title">Google Play Games</string>
-    <string name="alert_play_message">Great, you have earned an achievment!\n\nSign in with your Google account now to upload your score, save your achievements and share your progress with friends.</string>
+    <string name="complete_message">[設定]メニューから、パスワードとレベルに応じた課題の難易度を変更できます\n\n楽しんでください！</string>
 
 
     <!--Rating-->
@@ -201,24 +179,45 @@
     <string name="alert_too_bad">That\'s too bad!</string>
     <string name="alert_improve">What can we do better?</string>
 
-    <string name="feature_broken">A feature is not working</string>
-    <string name="feature_missing">A feature is missing</string>
-    <string name="ui_design">App design needs improvement</string>
-    <string name="comment">Comment</string>
-    <string name="alert_reboot_later">Later</string>
-    <string name="action_rate">Rate</string>
-    <string name="action_share">Share</string>
-    <string name="message_share">"Check out \"%s\": "</string>
+    <string name="feature_broken">アプリが正常に動作しない</string>
+    <string name="feature_missing">アプリの機能が不十分</string>
+    <string name="ui_design">アプリデザインの改善が必要</string>
+    <string name="comment">コメント</string>
+    <string name="alert_reboot_later">後で</string>
+    <string name="action_rate">評価</string>
+    <string name="action_share">共有</string>
+    <string name="message_share">"\"%s\"をチェックしてください: "</string>
+
+    <!--Error Default Launcher-->
+    <string name="alert_uninstall_title">申し訳ありません！</string>
+    <string name="alert_uninstall_message">デフォルトのホーム画面を起動できませんでした。Learn 4 Funがお使いの端末で正しく動作していないようです。</string>
+    <string name="alert_uninstall">アンインストール</string>
+
+    <!--White List-->
+    <string name="title_activity_whitelist">ホワイトリスト</string>
+    <string name="apps_search">%1$d個のアプリが見つかりました</string>
+    <string name="apps_selected">選択済み: %1$d/%2$dアプリ</string>
+
+    <!--Google Play Games-->
+    <string name="playgames_title">Google Play Games</string>
+    <string name="playgames_summary">Googleアカウントでログイン</string>
+
+    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
+    <string name="achievement">Achievement</string>
+    <string name="show_achievements">Show Achievements</string>
+    <string name="show_leaderboards">Show Leaderboards</string>
+    <string name="sign_in_why">Sign in with Google to view leaderboards and unlock achievments</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+
+    <string name="signed_in">Signed in</string>
+    <string name="signed_out">Sign in to view leaderboards and unlock achievments</string>
+
+    <string name="alert_play_title">Google Play Games</string>
+    <string name="alert_play_message">Great, you have earned an achievment!\n\nSign in with your Google account now to upload your score, save your achievements and share your progress with friends.</string>
 
 
-    <string name="alert_uninstall_title">"We're sorry!"</string>
-    <string name="alert_uninstall_message">"Couldn't start default home screen. It seems like Learn 4 Fun is not working properly on your device."</string>
-    <string name="alert_uninstall">Uninstall</string>
-
-    <string name="title_activity_whitelist">White list</string>
-    <string name="apps_search">%1$d apps found</string>
-    <string name="apps_selected">%1$d of %2$d apps selected</string>
-    <string name="translators">OnTranslate</string>
-    <string name="translation">日本語の翻訳</string>
 
 </resources>
