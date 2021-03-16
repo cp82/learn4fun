@@ -24,6 +24,7 @@ Your work will be credited in the app's about page:
 
 You need a github account to make contributions to a project on github.
 
+
 ### Editing directly on github
 
 1. Got to the res/values-xx folder for your language and open the strings.xml file.
